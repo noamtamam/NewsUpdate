@@ -1,0 +1,35 @@
+# LLM & LangChain-related
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langgraph>=0.0.10
+newsapi-python>=0.2.7
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.5.2
+typing-extensions>=4.8.0
+aiohttp>=3.9.1
+
+# News & Web Scraping
+newsapi-python>=0.2.7
+beautifulsoup4>=4.12.3
+newspaper3k>=0.2.8
+requests>=2.31.0
+
+# Messaging
+twilio>=9.0.0
+
+# Scheduling
+schedule>=1.2.1
+# Or use apscheduler if needed:
+# apscheduler>=3.10.4
+
+# Environment Management
+python-dotenv>=1.0.1
+
+# Jupyter / IPython Support (optional)
+ipython>=8.22.0
+nest_asyncio>=1.6.0
+
+# Optional JSON DB
+# tinydb>=4.7.1
