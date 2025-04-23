@@ -1,12 +1,12 @@
 # AI News Update Agent
 
-An intelligent agent that automatically scrapes daily news articles, summarizes them using AI, and delivers concise updates via email.
+An intelligent agent that automatically scrapes daily news articles, summarizes them using AI, and delivers concise updates via Whatsapp.
 
 ## Features
 
 - Automated news scraping from multiple sources
 - AI-powered article summarization
-- Scheduled daily email delivery
+- Scheduled daily Whatapp message delivery
 - Customizable news categories and preferences
 - Efficient content filtering and processing
 
@@ -15,7 +15,6 @@ An intelligent agent that automatically scrapes daily news articles, summarizes 
 - Python 3.8+
 - OpenAI API key
 - NewsAPI key
-- Email service credentials
 
 ## Installation
 
@@ -40,8 +39,6 @@ pip install -r requirements.txt
 ```env
 OPENAI_API_KEY=your_openai_api_key
 NEWS_API_KEY=your_news_api_key
-EMAIL_USER=your_email
-EMAIL_PASSWORD=your_email_password
 ```
 
 ## Project Structure

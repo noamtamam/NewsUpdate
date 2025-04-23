@@ -1,1 +1,8 @@
 /.env
+
+**/__pycache__/
+/graph_proprities
+/graph_proprities/__pycache__
+/playground
+/venv-news
+/.langgraph_api
